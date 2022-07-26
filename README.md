@@ -6,12 +6,19 @@ This Language Translator Project is based on python language and can translate b
 
 ![image](https://user-images.githubusercontent.com/73836674/180968163-ce2e2aab-2909-4805-8622-3f424f0f51b2.png)
 
-Design Goals
+Design Goals:
+
 The Project is designed in such away that to make Language Translation easier and faster,easily accessible and efficient
 The Language Translator project,
+
 > Provides Graphical User Interface for Easy use
+
 > Can be Easily Run-on Basic Computers
+
 > Can Translate between or over 100 languages
+
 > has Text to Speech option for hearing the Translated Language Text
+
 > has Speech to Text option for taking voice has input
+
 > can copy Translated Text to clipboard using Copy option
