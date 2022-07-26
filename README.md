@@ -24,3 +24,6 @@ The Language Translator project,
 > has Speech to Text option for taking voice has input
 
 > can copy Translated Text to clipboard using Copy option
+
+
+NOTE: INSTALL AND IMPORT ALL NECCESARY APIs BEFORE RUNNING THE CODE
