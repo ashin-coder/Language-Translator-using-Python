@@ -5,10 +5,12 @@ This Language Translator Project is based on python language and can translate b
 
 
 ![image](https://user-images.githubusercontent.com/73836674/180968163-ce2e2aab-2909-4805-8622-3f424f0f51b2.png)
+![image](https://user-images.githubusercontent.com/73836674/180968880-a56420a5-4f3d-467d-ab50-b7a3a1d5c8a4.png)
 
 Design Goals:
 
 The Project is designed in such away that to make Language Translation easier and faster,easily accessible and efficient
+
 The Language Translator project,
 
 > Provides Graphical User Interface for Easy use
