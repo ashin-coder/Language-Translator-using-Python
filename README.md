@@ -1,7 +1,7 @@
 # Language-Translator-using-Python
 This is Language Translator Project Developed using python
 
-This Language Translator Project is based on python language and can translate between or over 100 languages, the entered data will get processed and translated to chosen language, it has auto detect function which can identify the language of the entered data for translation, translated text can be copied and used anywhere, the project supports text to speech function which will narrate the translated text and also support speech to text support from English to the chosen language. A record of all the data translated will be stored into a Database
+This Language Translator Project is based on python language and can translate between or over 100 languages, the entered data will get processed and translated to chosen language, it has auto detect function which can identify the language of the entered data for translation, translated text can be copied and used anywhere, the project supports text to speech function which will narrate the translated text and also support speech to text support from English to the chosen language. 
 
 
 ![image](https://user-images.githubusercontent.com/73836674/180968163-ce2e2aab-2909-4805-8622-3f424f0f51b2.png)
